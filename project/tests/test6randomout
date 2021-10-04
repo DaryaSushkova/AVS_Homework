@@ -1,0 +1,23 @@
+10 elements:
+Number 1: Airplane: range = 9305, capacity = 37, speed = 746, way = 779962.00, time = 1045.53
+Number 2: Ship: displacement = 18074, type = TANKER, speed = 53, way = 699966.00, time = 13206.91
+Number 3: Train: cars = 50, speed = 903, way = 1819910.00, time = 2015.40
+Number 4: Ship: displacement = 14479, type = TUGBOAT, speed = 705, way = 1359933.00, time = 1928.98
+Number 5: Ship: displacement = 5621, type = TANKER, speed = 421, way = 839959.00, time = 1995.15
+Number 6: Ship: displacement = 1181, type = TUGBOAT, speed = 627, way = 1239939.00, time = 1977.57
+Number 7: Airplane: range = 6667, capacity = 64, speed = 576, way = 1079947.00, time = 1874.91
+Number 8: Ship: displacement = 4033, type = TUGBOAT, speed = 346, way = 39999.00, time = 115.60
+Number 9: Train: cars = 32, speed = 939, way = 99996.00, time = 106.49
+Number 10: Airplane: range = 8105, capacity = 71, speed = 136, way = 359983.00, time = 2646.93
+Sorted transport:
+10 elements:
+Number 1: Ship: displacement = 18074, type = TANKER, speed = 53, way = 699966.00, time = 13206.91
+Number 2: Airplane: range = 8105, capacity = 71, speed = 136, way = 359983.00, time = 2646.93
+Number 3: Train: cars = 50, speed = 903, way = 1819910.00, time = 2015.40
+Number 4: Ship: displacement = 5621, type = TANKER, speed = 421, way = 839959.00, time = 1995.15
+Number 5: Ship: displacement = 1181, type = TUGBOAT, speed = 627, way = 1239939.00, time = 1977.57
+Number 6: Ship: displacement = 14479, type = TUGBOAT, speed = 705, way = 1359933.00, time = 1928.98
+Number 7: Airplane: range = 6667, capacity = 64, speed = 576, way = 1079947.00, time = 1874.91
+Number 8: Airplane: range = 9305, capacity = 37, speed = 746, way = 779962.00, time = 1045.53
+Number 9: Ship: displacement = 4033, type = TUGBOAT, speed = 346, way = 39999.00, time = 115.60
+Number 10: Train: cars = 32, speed = 939, way = 99996.00, time = 106.49

@@ -1,0 +1,12 @@
+4 elements:
+Number 1: Ship: displacement = 150, type = TANKER, speed = 150, way = 10000.00, time = 66.67
+Number 2: Train: cars = 11, speed = 123, way = 456.00, time = 3.71
+Number 3: Airplane: range = 500, capacity = 700, speed = 10000, way = 20000.00, time = 2.00
+Number 4: Ship: displacement = 138, type = TUGBOAT, speed = 560, way = 7000.00, time = 12.50
+
+Sorted transport:
+4 elements:
+Number 1: Ship: displacement = 150, type = TANKER, speed = 150, way = 10000.00, time = 66.67
+Number 2: Ship: displacement = 138, type = TUGBOAT, speed = 560, way = 7000.00, time = 12.50
+Number 3: Train: cars = 11, speed = 123, way = 456.00, time = 3.71
+Number 4: Airplane: range = 500, capacity = 700, speed = 10000, way = 20000.00, time = 2.00

@@ -1,0 +1,203 @@
+100 elements:
+Number 1: Ship: displacement = 2036, type = TUGBOAT, speed = 839, way = 7346.11, time = 8.76
+Number 2: Ship: displacement = 19204, type = TUGBOAT, speed = 256, way = 2270.89, time = 8.87
+Number 3: Ship: displacement = 462, type = LINER, speed = 744, way = 271.18, time = 0.36
+Number 4: Ship: displacement = 3109, type = TANKER, speed = 856, way = 2020.92, time = 2.36
+Number 5: Airplane: range = 790, capacity = 69, speed = 390, way = 1382.49, time = 3.54
+Number 6: Airplane: range = 8116, capacity = 80, speed = 799, way = 11435.67, time = 14.31
+Number 7: Airplane: range = 8074, capacity = 91, speed = 924, way = 17356.68, time = 18.78
+Number 8: Airplane: range = 5617, capacity = 34, speed = 382, way = 18226.65, time = 47.71
+Number 9: Airplane: range = 6816, capacity = 74, speed = 381, way = 14540.28, time = 38.16
+Number 10: Airplane: range = 1672, capacity = 81, speed = 370, way = 872.32, time = 2.36
+Number 11: Ship: displacement = 17651, type = TUGBOAT, speed = 392, way = 10315.04, time = 26.31
+Number 12: Train: cars = 13, speed = 434, way = 11724.04, time = 27.01
+Number 13: Airplane: range = 7870, capacity = 65, speed = 565, way = 3475.15, time = 6.15
+Number 14: Train: cars = 42, speed = 561, way = 1559.47, time = 2.78
+Number 15: Train: cars = 12, speed = 429, way = 16713.35, time = 38.96
+Number 16: Airplane: range = 1001, capacity = 133, speed = 476, way = 7886.03, time = 16.57
+Number 17: Airplane: range = 2481, capacity = 112, speed = 999, way = 848.00, time = 0.85
+Number 18: Train: cars = 24, speed = 519, way = 16857.31, time = 32.48
+Number 19: Ship: displacement = 17342, type = TUGBOAT, speed = 130, way = 578.66, time = 4.45
+Number 20: Ship: displacement = 17612, type = LINER, speed = 846, way = 18800.57, time = 22.22
+Number 21: Train: cars = 40, speed = 259, way = 19338.13, time = 74.66
+Number 22: Train: cars = 2, speed = 875, way = 10347.10, time = 11.83
+Number 23: Train: cars = 6, speed = 172, way = 12332.56, time = 71.70
+Number 24: Train: cars = 9, speed = 879, way = 13191.96, time = 15.01
+Number 25: Train: cars = 46, speed = 584, way = 10166.38, time = 17.41
+Number 26: Airplane: range = 9100, capacity = 27, speed = 655, way = 16193.08, time = 24.72
+Number 27: Ship: displacement = 11486, type = LINER, speed = 437, way = 18616.38, time = 42.60
+Number 28: Train: cars = 36, speed = 152, way = 762.37, time = 5.02
+Number 29: Airplane: range = 7688, capacity = 45, speed = 136, way = 3565.22, time = 26.21
+Number 30: Train: cars = 28, speed = 173, way = 13311.48, time = 76.94
+Number 31: Airplane: range = 6156, capacity = 52, speed = 446, way = 16405.27, time = 36.78
+Number 32: Train: cars = 23, speed = 719, way = 18165.31, time = 25.26
+Number 33: Train: cars = 24, speed = 745, way = 19087.45, time = 25.62
+Number 34: Train: cars = 30, speed = 795, way = 4734.30, time = 5.96
+Number 35: Ship: displacement = 15397, type = LINER, speed = 27, way = 12068.90, time = 447.00
+Number 36: Airplane: range = 9550, capacity = 35, speed = 863, way = 3986.86, time = 4.62
+Number 37: Ship: displacement = 17618, type = LINER, speed = 840, way = 15167.45, time = 18.06
+Number 38: Train: cars = 6, speed = 702, way = 14612.08, time = 20.81
+Number 39: Airplane: range = 6901, capacity = 74, speed = 176, way = 774.19, time = 4.40
+Number 40: Airplane: range = 5308, capacity = 44, speed = 162, way = 13909.53, time = 85.86
+Number 41: Train: cars = 11, speed = 379, way = 2015.82, time = 5.32
+Number 42: Airplane: range = 1178, capacity = 108, speed = 315, way = 11973.38, time = 38.01
+Number 43: Train: cars = 39, speed = 599, way = 18968.62, time = 31.67
+Number 44: Ship: displacement = 17405, type = TANKER, speed = 844, way = 8882.93, time = 10.52
+Number 45: Airplane: range = 1041, capacity = 51, speed = 513, way = 16435.70, time = 32.04
+Number 46: Train: cars = 5, speed = 741, way = 16074.53, time = 21.69
+Number 47: Ship: displacement = 4211, type = TUGBOAT, speed = 16, way = 10213.16, time = 638.32
+Number 48: Train: cars = 20, speed = 853, way = 178.63, time = 0.21
+Number 49: Ship: displacement = 7011, type = LINER, speed = 402, way = 1301.08, time = 3.24
+Number 50: Ship: displacement = 9970, type = TUGBOAT, speed = 775, way = 18923.67, time = 24.42
+Number 51: Airplane: range = 11357, capacity = 150, speed = 493, way = 6706.97, time = 13.60
+Number 52: Ship: displacement = 892, type = LINER, speed = 800, way = 14187.39, time = 17.73
+Number 53: Airplane: range = 9202, capacity = 62, speed = 727, way = 18951.72, time = 26.07
+Number 54: Ship: displacement = 3051, type = TUGBOAT, speed = 267, way = 914.43, time = 3.42
+Number 55: Ship: displacement = 17831, type = TANKER, speed = 783, way = 1200.50, time = 1.53
+Number 56: Ship: displacement = 898, type = LINER, speed = 813, way = 10969.66, time = 13.49
+Number 57: Ship: displacement = 5267, type = TUGBOAT, speed = 53, way = 2454.94, time = 46.32
+Number 58: Airplane: range = 11156, capacity = 107, speed = 205, way = 14062.73, time = 68.60
+Number 59: Airplane: range = 4591, capacity = 136, speed = 535, way = 6738.07, time = 12.59
+Number 60: Airplane: range = 10481, capacity = 60, speed = 866, way = 1924.55, time = 2.22
+Number 61: Train: cars = 29, speed = 312, way = 1715.77, time = 5.50
+Number 62: Train: cars = 5, speed = 446, way = 1482.29, time = 3.32
+Number 63: Ship: displacement = 5005, type = LINER, speed = 601, way = 14249.83, time = 23.71
+Number 64: Ship: displacement = 19594, type = LINER, speed = 38, way = 12954.03, time = 340.90
+Number 65: Ship: displacement = 16813, type = TUGBOAT, speed = 926, way = 7056.08, time = 7.62
+Number 66: Ship: displacement = 12667, type = LINER, speed = 802, way = 13468.38, time = 16.79
+Number 67: Train: cars = 27, speed = 614, way = 9021.41, time = 14.69
+Number 68: Airplane: range = 912, capacity = 69, speed = 115, way = 18536.52, time = 161.19
+Number 69: Airplane: range = 5338, capacity = 100, speed = 97, way = 9587.56, time = 98.84
+Number 70: Ship: displacement = 18095, type = LINER, speed = 473, way = 3360.83, time = 7.11
+Number 71: Airplane: range = 136, capacity = 28, speed = 35, way = 15455.03, time = 441.57
+Number 72: Airplane: range = 10891, capacity = 95, speed = 137, way = 11515.29, time = 84.05
+Number 73: Ship: displacement = 11449, type = LINER, speed = 598, way = 5306.99, time = 8.87
+Number 74: Airplane: range = 8642, capacity = 76, speed = 186, way = 19428.07, time = 104.45
+Number 75: Train: cars = 3, speed = 585, way = 17440.01, time = 29.81
+Number 76: Train: cars = 46, speed = 427, way = 12037.57, time = 28.19
+Number 77: Airplane: range = 370, capacity = 106, speed = 984, way = 3881.35, time = 3.94
+Number 78: Train: cars = 9, speed = 821, way = 18083.78, time = 22.03
+Number 79: Airplane: range = 9975, capacity = 64, speed = 679, way = 18878.37, time = 27.80
+Number 80: Airplane: range = 11482, capacity = 22, speed = 405, way = 13483.60, time = 33.29
+Number 81: Ship: displacement = 13654, type = TANKER, speed = 828, way = 5455.08, time = 6.59
+Number 82: Airplane: range = 8580, capacity = 140, speed = 153, way = 4467.61, time = 29.20
+Number 83: Ship: displacement = 5091, type = TANKER, speed = 767, way = 19776.65, time = 25.78
+Number 84: Train: cars = 50, speed = 744, way = 14294.02, time = 19.21
+Number 85: Airplane: range = 10650, capacity = 52, speed = 134, way = 15921.03, time = 118.81
+Number 86: Airplane: range = 10488, capacity = 29, speed = 252, way = 10686.89, time = 42.41
+Number 87: Train: cars = 39, speed = 90, way = 18024.50, time = 200.27
+Number 88: Train: cars = 27, speed = 325, way = 15373.88, time = 47.30
+Number 89: Airplane: range = 11749, capacity = 82, speed = 358, way = 9785.54, time = 27.33
+Number 90: Ship: displacement = 8257, type = TANKER, speed = 85, way = 2544.42, time = 29.93
+Number 91: Ship: displacement = 9606, type = TUGBOAT, speed = 121, way = 12350.24, time = 102.07
+Number 92: Ship: displacement = 3050, type = TUGBOAT, speed = 446, way = 15510.21, time = 34.78
+Number 93: Train: cars = 2, speed = 713, way = 19054.81, time = 26.72
+Number 94: Ship: displacement = 13474, type = LINER, speed = 798, way = 8724.18, time = 10.93
+Number 95: Ship: displacement = 4279, type = TUGBOAT, speed = 267, way = 2921.30, time = 10.94
+Number 96: Ship: displacement = 15808, type = LINER, speed = 334, way = 16512.66, time = 49.44
+Number 97: Train: cars = 2, speed = 403, way = 11930.45, time = 29.60
+Number 98: Train: cars = 40, speed = 194, way = 5822.80, time = 30.01
+Number 99: Train: cars = 38, speed = 667, way = 9271.32, time = 13.90
+Number 100: Train: cars = 25, speed = 722, way = 19506.66, time = 27.02
+Sorted transport:
+100 elements:
+Number 1: Ship: displacement = 4211, type = TUGBOAT, speed = 16, way = 10213.16, time = 638.32
+Number 2: Ship: displacement = 15397, type = LINER, speed = 27, way = 12068.90, time = 447.00
+Number 3: Airplane: range = 136, capacity = 28, speed = 35, way = 15455.03, time = 441.57
+Number 4: Ship: displacement = 19594, type = LINER, speed = 38, way = 12954.03, time = 340.90
+Number 5: Train: cars = 39, speed = 90, way = 18024.50, time = 200.27
+Number 6: Airplane: range = 912, capacity = 69, speed = 115, way = 18536.52, time = 161.19
+Number 7: Airplane: range = 10650, capacity = 52, speed = 134, way = 15921.03, time = 118.81
+Number 8: Airplane: range = 8642, capacity = 76, speed = 186, way = 19428.07, time = 104.45
+Number 9: Ship: displacement = 9606, type = TUGBOAT, speed = 121, way = 12350.24, time = 102.07
+Number 10: Airplane: range = 5338, capacity = 100, speed = 97, way = 9587.56, time = 98.84
+Number 11: Airplane: range = 5308, capacity = 44, speed = 162, way = 13909.53, time = 85.86
+Number 12: Airplane: range = 10891, capacity = 95, speed = 137, way = 11515.29, time = 84.05
+Number 13: Train: cars = 28, speed = 173, way = 13311.48, time = 76.94
+Number 14: Train: cars = 40, speed = 259, way = 19338.13, time = 74.66
+Number 15: Train: cars = 6, speed = 172, way = 12332.56, time = 71.70
+Number 16: Airplane: range = 11156, capacity = 107, speed = 205, way = 14062.73, time = 68.60
+Number 17: Ship: displacement = 15808, type = LINER, speed = 334, way = 16512.66, time = 49.44
+Number 18: Airplane: range = 5617, capacity = 34, speed = 382, way = 18226.65, time = 47.71
+Number 19: Train: cars = 27, speed = 325, way = 15373.88, time = 47.30
+Number 20: Ship: displacement = 5267, type = TUGBOAT, speed = 53, way = 2454.94, time = 46.32
+Number 21: Ship: displacement = 11486, type = LINER, speed = 437, way = 18616.38, time = 42.60
+Number 22: Airplane: range = 10488, capacity = 29, speed = 252, way = 10686.89, time = 42.41
+Number 23: Train: cars = 12, speed = 429, way = 16713.35, time = 38.96
+Number 24: Airplane: range = 6816, capacity = 74, speed = 381, way = 14540.28, time = 38.16
+Number 25: Airplane: range = 1178, capacity = 108, speed = 315, way = 11973.38, time = 38.01
+Number 26: Airplane: range = 6156, capacity = 52, speed = 446, way = 16405.27, time = 36.78
+Number 27: Ship: displacement = 3050, type = TUGBOAT, speed = 446, way = 15510.21, time = 34.78
+Number 28: Airplane: range = 11482, capacity = 22, speed = 405, way = 13483.60, time = 33.29
+Number 29: Train: cars = 24, speed = 519, way = 16857.31, time = 32.48
+Number 30: Airplane: range = 1041, capacity = 51, speed = 513, way = 16435.70, time = 32.04
+Number 31: Train: cars = 39, speed = 599, way = 18968.62, time = 31.67
+Number 32: Train: cars = 40, speed = 194, way = 5822.80, time = 30.01
+Number 33: Ship: displacement = 8257, type = TANKER, speed = 85, way = 2544.42, time = 29.93
+Number 34: Train: cars = 3, speed = 585, way = 17440.01, time = 29.81
+Number 35: Train: cars = 2, speed = 403, way = 11930.45, time = 29.60
+Number 36: Airplane: range = 8580, capacity = 140, speed = 153, way = 4467.61, time = 29.20
+Number 37: Train: cars = 46, speed = 427, way = 12037.57, time = 28.19
+Number 38: Airplane: range = 9975, capacity = 64, speed = 679, way = 18878.37, time = 27.80
+Number 39: Airplane: range = 11749, capacity = 82, speed = 358, way = 9785.54, time = 27.33
+Number 40: Train: cars = 25, speed = 722, way = 19506.66, time = 27.02
+Number 41: Train: cars = 13, speed = 434, way = 11724.04, time = 27.01
+Number 42: Train: cars = 2, speed = 713, way = 19054.81, time = 26.72
+Number 43: Ship: displacement = 17651, type = TUGBOAT, speed = 392, way = 10315.04, time = 26.31
+Number 44: Airplane: range = 7688, capacity = 45, speed = 136, way = 3565.22, time = 26.21
+Number 45: Airplane: range = 9202, capacity = 62, speed = 727, way = 18951.72, time = 26.07
+Number 46: Ship: displacement = 5091, type = TANKER, speed = 767, way = 19776.65, time = 25.78
+Number 47: Train: cars = 24, speed = 745, way = 19087.45, time = 25.62
+Number 48: Train: cars = 23, speed = 719, way = 18165.31, time = 25.26
+Number 49: Airplane: range = 9100, capacity = 27, speed = 655, way = 16193.08, time = 24.72
+Number 50: Ship: displacement = 9970, type = TUGBOAT, speed = 775, way = 18923.67, time = 24.42
+Number 51: Ship: displacement = 5005, type = LINER, speed = 601, way = 14249.83, time = 23.71
+Number 52: Ship: displacement = 17612, type = LINER, speed = 846, way = 18800.57, time = 22.22
+Number 53: Train: cars = 9, speed = 821, way = 18083.78, time = 22.03
+Number 54: Train: cars = 5, speed = 741, way = 16074.53, time = 21.69
+Number 55: Train: cars = 6, speed = 702, way = 14612.08, time = 20.81
+Number 56: Train: cars = 50, speed = 744, way = 14294.02, time = 19.21
+Number 57: Airplane: range = 8074, capacity = 91, speed = 924, way = 17356.68, time = 18.78
+Number 58: Ship: displacement = 17618, type = LINER, speed = 840, way = 15167.45, time = 18.06
+Number 59: Ship: displacement = 892, type = LINER, speed = 800, way = 14187.39, time = 17.73
+Number 60: Train: cars = 46, speed = 584, way = 10166.38, time = 17.41
+Number 61: Ship: displacement = 12667, type = LINER, speed = 802, way = 13468.38, time = 16.79
+Number 62: Airplane: range = 1001, capacity = 133, speed = 476, way = 7886.03, time = 16.57
+Number 63: Train: cars = 9, speed = 879, way = 13191.96, time = 15.01
+Number 64: Train: cars = 27, speed = 614, way = 9021.41, time = 14.69
+Number 65: Airplane: range = 8116, capacity = 80, speed = 799, way = 11435.67, time = 14.31
+Number 66: Train: cars = 38, speed = 667, way = 9271.32, time = 13.90
+Number 67: Airplane: range = 11357, capacity = 150, speed = 493, way = 6706.97, time = 13.60
+Number 68: Ship: displacement = 898, type = LINER, speed = 813, way = 10969.66, time = 13.49
+Number 69: Airplane: range = 4591, capacity = 136, speed = 535, way = 6738.07, time = 12.59
+Number 70: Train: cars = 2, speed = 875, way = 10347.10, time = 11.83
+Number 71: Ship: displacement = 4279, type = TUGBOAT, speed = 267, way = 2921.30, time = 10.94
+Number 72: Ship: displacement = 13474, type = LINER, speed = 798, way = 8724.18, time = 10.93
+Number 73: Ship: displacement = 17405, type = TANKER, speed = 844, way = 8882.93, time = 10.52
+Number 74: Ship: displacement = 11449, type = LINER, speed = 598, way = 5306.99, time = 8.87
+Number 75: Ship: displacement = 19204, type = TUGBOAT, speed = 256, way = 2270.89, time = 8.87
+Number 76: Ship: displacement = 2036, type = TUGBOAT, speed = 839, way = 7346.11, time = 8.76
+Number 77: Ship: displacement = 16813, type = TUGBOAT, speed = 926, way = 7056.08, time = 7.62
+Number 78: Ship: displacement = 18095, type = LINER, speed = 473, way = 3360.83, time = 7.11
+Number 79: Ship: displacement = 13654, type = TANKER, speed = 828, way = 5455.08, time = 6.59
+Number 80: Airplane: range = 7870, capacity = 65, speed = 565, way = 3475.15, time = 6.15
+Number 81: Train: cars = 30, speed = 795, way = 4734.30, time = 5.96
+Number 82: Train: cars = 29, speed = 312, way = 1715.77, time = 5.50
+Number 83: Train: cars = 11, speed = 379, way = 2015.82, time = 5.32
+Number 84: Train: cars = 36, speed = 152, way = 762.37, time = 5.02
+Number 85: Airplane: range = 9550, capacity = 35, speed = 863, way = 3986.86, time = 4.62
+Number 86: Ship: displacement = 17342, type = TUGBOAT, speed = 130, way = 578.66, time = 4.45
+Number 87: Airplane: range = 6901, capacity = 74, speed = 176, way = 774.19, time = 4.40
+Number 88: Airplane: range = 370, capacity = 106, speed = 984, way = 3881.35, time = 3.94
+Number 89: Airplane: range = 790, capacity = 69, speed = 390, way = 1382.49, time = 3.54
+Number 90: Ship: displacement = 3051, type = TUGBOAT, speed = 267, way = 914.43, time = 3.42
+Number 91: Train: cars = 5, speed = 446, way = 1482.29, time = 3.32
+Number 92: Ship: displacement = 7011, type = LINER, speed = 402, way = 1301.08, time = 3.24
+Number 93: Train: cars = 42, speed = 561, way = 1559.47, time = 2.78
+Number 94: Ship: displacement = 3109, type = TANKER, speed = 856, way = 2020.92, time = 2.36
+Number 95: Airplane: range = 1672, capacity = 81, speed = 370, way = 872.32, time = 2.36
+Number 96: Airplane: range = 10481, capacity = 60, speed = 866, way = 1924.55, time = 2.22
+Number 97: Ship: displacement = 17831, type = TANKER, speed = 783, way = 1200.50, time = 1.53
+Number 98: Airplane: range = 2481, capacity = 112, speed = 999, way = 848.00, time = 0.85
+Number 99: Ship: displacement = 462, type = LINER, speed = 744, way = 271.18, time = 0.36
+Number 100: Train: cars = 20, speed = 853, way = 178.63, time = 0.21
